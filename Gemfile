@@ -20,7 +20,8 @@ gem 'bcrypt', '3.1.7'
 
  group :doc do
    
-gem 'sdoc', '0.3.20',  require: false       
+gem 'sdoc', '0.3.20',  require: false   
+gem 'tzinfo-data', platforms: [:mingw, :mswin]    
 end
 
 
